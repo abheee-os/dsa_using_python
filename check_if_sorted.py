@@ -7,3 +7,5 @@ for i in range(len(arr)-1):
 
 else:
     print("Array is sorted")
+
+    
